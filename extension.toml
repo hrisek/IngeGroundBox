@@ -5,7 +5,7 @@
 id = "inge_groundbox"
 name = "IngeGroundBox"
 version = "1.0.0"
-author = "IngeTrazo Community"
+author = "Hris/KrzysztofCz"
 description = "Advanced Engineering Terrain Modeling (TIN), Sculpting & openBIM for IngeTrazo. Includes From Scratch, From Contours, Smoove, Stamp, Drape, Add Detail, Flip Edge, Cut & Fill calculation (m³), slope analysis heatmap, and IFC tagging."
 repository = "https://github.com/your-username/Inge_GroundBox"
 license = "GPL-3.0-or-later"
